@@ -1,3 +1,7 @@
+![rat](https://user-images.githubusercontent.com/94076644/206908196-e0c0cc47-0798-4f41-9032-1f56d6d3105a.png)
+
+
+
 # TempoRat
 A Small Rat
 To Add Your Own Functions, Go Into TempoModule And Paste This Code ↓
