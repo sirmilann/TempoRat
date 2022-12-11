@@ -11,3 +11,4 @@ In The Command Section Add
 if command[0] == "your command name":
                     TempoModule.Name Of Your Def.
 ```
+feel free to make a pull request to make improvements.
