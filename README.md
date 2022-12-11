@@ -1,7 +1,6 @@
 # TempoRat
 A Small Rat
-To Add Your Own Functions, Go Into The Client File and Look For The Def Called (run).
-After That Add This Code
+To Add Your Own Functions, Go Into TempoModule And Paste This Code ↓
 ```
 if command[0] == "your command name":
                     your code.
