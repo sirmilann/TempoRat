@@ -2,6 +2,9 @@
 
 ![image](https://user-images.githubusercontent.com/94076644/208468748-e4e44944-f978-4806-980d-601202be9afa.png)
 
+# License
+This project is licensed under the MIT License - see the LICENSE file for details
+
 # TempoRat
 A Small Rat
 To Add Your Own Functions, Go Into TempoModule And Paste This Code ↓
